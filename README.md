@@ -5,7 +5,7 @@ This project involves analyzing retail orders to generate insights such as the h
 ## Table of Contents
 
 - [Usage](#Usage)
-- [ETL Process](#ETL Process)
+- [ETL Process](#ETL)
 - [SQL Queries](#sql-queries)
   - [Top 10 Highest Revenue Generating Products](#top-10-highest-revenue-generating-products)
   - [Top 5 Highest Selling Products in Each Region](#top-5-highest-selling-products-in-each-region)

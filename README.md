@@ -16,7 +16,7 @@ This project involves analyzing retail orders to generate insights such as the h
 ## Usage
 After setting up the database, you can run the provided SQL queries to generate various reports and insights.
 
-## ETL Process
+## ETL
 
 ### Extraction
 - First the data was downloaded from the above mentioned link.
